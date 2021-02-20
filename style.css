@@ -1,0 +1,12 @@
+#container {
+  line-height: 30px;
+}
+
+#container span {
+  color: red;
+}
+
+#button-container {
+  text-align: center;
+  margin: 10px;
+}
